@@ -22,7 +22,7 @@ x2 - planowana ilość produkcji mebla rodzaju B
 
 Funkcja celu 
 
-Celem jest zmaksymalizowanie zysków sprzedaży zabawek.
+Celem jest zmaksymalizowanie zysków sprzedaży mebli.
 
 F(x_1,x_2)=500x_1+180x_2 -> max
 
