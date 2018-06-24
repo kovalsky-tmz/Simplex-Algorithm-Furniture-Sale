@@ -2,10 +2,15 @@
 Using Pulp Library for solve a linear problem
 
 Zużycie surowca na produkcję 1 sztuki wyrobu
+
 Surowce	        A	  B
+
 Płyty wiórowe	  15	8
+
 Płyty MDF	      25	5
+
 Zużyta energia	1	  0,6
+
 Cena	          500	180
 
 Zmienne decyzyjne:
