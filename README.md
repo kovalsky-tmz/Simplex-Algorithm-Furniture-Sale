@@ -1,5 +1,5 @@
 # Simplex-Algorithm-Furniture-Sale
-Using Pulp Library for solve a linear problem
+Użycie biblioteki Pulp do rozwiązania problemu liniowego
 
 Zużycie surowca na produkcję 1 sztuki wyrobu
 <table>
@@ -41,7 +41,7 @@ F(x_1,x_2)=500x_1+180x_2 -> max
 
 
 <li><b>Warunki ograniczające</b> 
-</ul>
+
 15x_1+8x_2<=3240
 
 25x_1+5x_2<=4300
@@ -51,3 +51,4 @@ F(x_1,x_2)=500x_1+180x_2 -> max
 x_1,x_2>=0
 
 x_1,x_2 \in C
+</ul>
