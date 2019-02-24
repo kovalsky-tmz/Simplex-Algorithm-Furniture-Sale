@@ -32,15 +32,15 @@ x1 – planowana ilość produkcji mebla rodzaju A
 
 x2 - planowana ilość produkcji mebla rodzaju B
 
-<ul>
-  <li><b>Funkcja celu</b> 
+
+<h4>Funkcja celu</h4>
 
 Celem jest zmaksymalizowanie zysków sprzedaży mebli.
 
 F(x_1,x_2)=500x_1+180x_2 -> max
 
 
-<li><b>Warunki ograniczające</b> 
+<h4>Warunki ograniczające </h4>
 
 15x_1+8x_2<=3240
 
